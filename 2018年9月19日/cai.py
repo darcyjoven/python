@@ -19,3 +19,6 @@ for a in o:
 
 
 print(c.__len__)
+
+
+# 我的老家
